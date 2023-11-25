@@ -1,2 +1,2 @@
-# certifications
-My Certifications Till This Date
+# Certifications
+## Till This Date
